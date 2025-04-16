@@ -18,7 +18,7 @@ The project employs a breadth-first search (BFS) algorithm to systematically exp
 
 ### Prerequisites
 - **Ruby**: Make sure you have Ruby installed on your system. You can check your version by running:
-```ruby
+```bash
 ruby -v
 ```
 - No additional gems are required for this project beyond the Ruby Standard Library (we use 'set').
@@ -29,12 +29,12 @@ ruby -v
 
 2. Navigate to the Project Directory
    Open your terminal and change the directory:
-   ```
+   ```bash
    cd /path/to/your/project
    ```
 3. Run the Script
    Execute the Ruby script using:
-   ```
+   ```bash
    ruby knight_moves.rb
    ```
    The script contains several example calls that demonstrate the knight's shortest path from one coordinate to another.
